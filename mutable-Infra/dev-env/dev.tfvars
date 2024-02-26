@@ -1,5 +1,5 @@
 ENV = "dev"
-INSTANCE_TYPE = "t2.micro"
+INSTANCE_TYPE = "t2.medium"
 SPOT_INSTANCE_COUNT = 1
 OD_INSTANCE_COUNT = 0
 
